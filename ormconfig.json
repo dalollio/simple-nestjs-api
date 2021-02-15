@@ -1,0 +1,10 @@
+{
+    "type":"postgres",
+    "host":"localhost",
+    "port":  5431,
+    "username":"postgres",
+    "password":"root",
+    "database":"medclinic",
+    "entities":["Person"],
+    "syncronize":true
+}
